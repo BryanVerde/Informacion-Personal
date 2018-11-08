@@ -1,0 +1,6 @@
+Nombre: 		Verde Osuna Bryan Jesus
+Edad: 			20
+Nacionalidad: 		mexicano
+Originario de: 		Mazatlán, Sinaloa
+Estudios:		Ing. en Informática
+Profesión:		Studiante
