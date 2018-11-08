@@ -1,0 +1,11 @@
+Jenkins
+Ansiable
+Docker
+Kubernetes
+AWS
+Google Cloud
+MongoDB
+NodeJs
+Python (Pandas, Matplotlib, NumPy, etc)
+R
+Networking (any tecnologi or subject)
